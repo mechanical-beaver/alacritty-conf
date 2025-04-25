@@ -1,0 +1,34 @@
+[general]
+import = [
+    "~/AppData/Roaming/alacritty/themes/themes/pastel_dark.toml"
+]
+
+
+[window] 
+position.x = 20
+position.y = 20
+
+startup_mode = "Maximized"
+
+decorations = "Buttonless"
+opacity = 0.92
+blur = true
+
+
+[font]
+normal.family = "CommitMono Nerd Font Mono"
+size = 16.0
+
+
+[colors]
+
+[terminal]
+shell ={ program = "C:\\Program Files\\PowerShell\\7\\pwsh.exe", args = [] }
+
+[mouse]
+
+[hints]
+
+[keyboard]
+
+[debug]
